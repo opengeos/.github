@@ -8,6 +8,7 @@ Join our Discord server 👇
 
 ## Python Packages
 
+- [anymap](https://github.com/opengeos/anymap)
 - [geemap](https://github.com/gee-community/geemap)
 - [geoai](https://github.com/opengeos/geoai)
 - [geospatial](https://github.com/opengeos/geospatial)
