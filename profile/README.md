@@ -6,6 +6,11 @@ Join our Discord server 👇
 
 [![](https://dcbadge.limes.pink/api/server/https://discord.gg/UgZecTUq5P)](https://discord.gg/UgZecTUq5P)
 
+Or join the Zulip chat
+
+[![Zulip chat](https://img.shields.io/badge/chat-on%20Zulip-brightgreen)](https://opengeos.zulipchat.com)
+
+
 ## Python Packages
 
 - [anymap](https://github.com/opengeos/anymap)
