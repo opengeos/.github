@@ -43,6 +43,23 @@ Or join the Zulip chat
 - [data](https://github.com/opengeos/data)
 - [ee-tile-layers](https://github.com/opengeos/ee-tile-layers)
 
+## QGIS Plugins
+
+- [Earth Engine Data Catalogs](https://github.com/opengeos/qgis-gee-data-catalogs-plugin)
+- [Geemap](https://github.com/opengeos/qgis-geemap-plugin)
+- [GeoAI](https://github.com/opengeos/geoai)
+- [HyperCoast](https://github.com/opengeos/HyperCoast)
+- [Leafmap](https://github.com/opengeos/qgis-leafmap-plugin)
+- [Maxar Open Data](https://github.com/opengeos/qgis-maxar-plugin)
+- [NASA Earthdata](https://github.com/opengeos/qgis-nasa-earthdata-plugin)
+- [NASA OPERA](hhttps://github.com/opengeos/qgis-nasa-opera-plugin)
+- [Notebook](https://github.com/opengeos/qgis-notebook-plugin)
+- [Plugin Template](https://github.com/opengeos/qgis-plugin-template)
+- [SamGeo](https://github.com/opengeos/qgis-samgeo-plugin)
+- [Timelapse](https://github.com/opengeos/qgis-timelapse-plugin)
+- [Whitebox AI Agent](https://github.com/opengeos/qgis-whitebox-agent)
+
+
 ## R Packages
 
 - [whiteboxR](https://github.com/opengeos/whiteboxR)
@@ -67,7 +84,3 @@ Or join the Zulip chat
 
 - [Awesome-GEE](https://github.com/opengeos/Awesome-GEE)
 - [python-geospatial](https://github.com/opengeos/python-geospatial)
-
-## Acknowledgements
-
-Some of the projects hosted by the Open Geospatial Solutions organization are supported by Amazon Web Services ([AWS](https://aws.amazon.com)).
