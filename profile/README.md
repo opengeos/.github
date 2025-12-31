@@ -52,7 +52,7 @@ Or join the Zulip chat
 - [Leafmap](https://github.com/opengeos/qgis-leafmap-plugin)
 - [Maxar Open Data](https://github.com/opengeos/qgis-maxar-plugin)
 - [NASA Earthdata](https://github.com/opengeos/qgis-nasa-earthdata-plugin)
-- [NASA OPERA](hhttps://github.com/opengeos/qgis-nasa-opera-plugin)
+- [NASA OPERA](https://github.com/opengeos/qgis-nasa-opera-plugin)
 - [Notebook](https://github.com/opengeos/qgis-notebook-plugin)
 - [Plugin Template](https://github.com/opengeos/qgis-plugin-template)
 - [SamGeo](https://github.com/opengeos/qgis-samgeo-plugin)
