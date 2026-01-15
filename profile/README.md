@@ -10,7 +10,6 @@ Or join the Zulip chat
 
 [![Zulip chat](https://img.shields.io/badge/chat-on%20Zulip-brightgreen)](https://opengeos.zulipchat.com)
 
-
 ## Python Packages
 
 - [anymap](https://github.com/opengeos/anymap)
@@ -59,6 +58,18 @@ Or join the Zulip chat
 - [Timelapse](https://github.com/opengeos/qgis-timelapse-plugin)
 - [Whitebox AI Agent](https://github.com/opengeos/qgis-whitebox-agent)
 
+## MapLibre GL JS Plugins
+
+- [maplibre-gl-components](https://github.com/opengeos/maplibre-gl-components)
+- [maplibre-gl-extend](https://github.com/opengeos/maplibre-gl-extend)
+- [maplibre-gl-geo-editor](https://github.com/opengeos/maplibre-gl-geo-editor)
+- [maplibre-gl-layer-control](https://github.com/opengeos/maplibre-gl-layer-control)
+- [maplibre-gl-lidar](https://github.com/opengeos/maplibre-gl-lidar)
+- [maplibre-gl-plugin-template](https://github.com/opengeos/maplibre-gl-plugin-template)
+- [maplibre-gl-streetview](https://github.com/opengeos/maplibre-gl-streetview)
+- [maplibre-gl-swipe](https://github.com/opengeos/maplibre-gl-swipe)
+- [maplibre-gl-time-slider](https://github.com/opengeos/maplibre-gl-time-slider)
+- [maplibre-gl-usgs-lidar](https://github.com/opengeos/maplibre-gl-usgs-lidar)
 
 ## R Packages
 
