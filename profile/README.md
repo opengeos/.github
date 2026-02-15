@@ -72,6 +72,7 @@ Or join the Zulip chat
 - [maplibre-gl-html-widget](https://github.com/opengeos/maplibre-gl-html-widget)
 - [maplibre-gl-layer-control](https://github.com/opengeos/maplibre-gl-layer-control)
 - [maplibre-gl-layer-manager](https://github.com/opengeos/maplibre-gl-layer-manager)
+- [maplibre-gl-noaa-lidar](https://github.com/opengeos/maplibre-gl-noaa-lidar)
 - [maplibre-gl-lidar](https://github.com/opengeos/maplibre-gl-lidar)
 - [maplibre-gl-planetary-computer](https://github.com/opengeos/maplibre-gl-planetary-computer)
 - [maplibre-gl-plugin-template](https://github.com/opengeos/maplibre-gl-plugin-template)
