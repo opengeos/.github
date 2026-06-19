@@ -10,6 +10,10 @@ Or join the Zulip chat
 
 [![Zulip chat](https://img.shields.io/badge/chat-on%20Zulip-brightgreen)](https://opengeos.zulipchat.com)
 
+## GIS Platforms
+
+- [GeoLibre](https://github.com/opengeos/GeoLibre)
+
 ## Python Packages
 
 - [anymap](https://github.com/opengeos/anymap)
