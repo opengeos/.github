@@ -13,6 +13,7 @@ Or join the Zulip chat
 ## GIS Platforms
 
 - [GeoLibre](https://github.com/opengeos/GeoLibre)
+- [RustGIS](https://github.com/opengeos/RustGIS)
 - [geolibre-rust](https://github.com/opengeos/geolibre-rust)
 - [whitebox-wasm](https://github.com/opengeos/whitebox-wasm)
 
